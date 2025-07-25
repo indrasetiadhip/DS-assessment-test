@@ -11,8 +11,8 @@ Assess the candidate’s ability to use unstructured and semi-structured documen
 Based on the provided user guide and API documentation, create an AI agent that can assist customers with support-related queries.
 
 **Input Provided:**  
-- Link to user guide (📄)  
-- Link to API documentation (🔗)  
+- Link to user guide (📄): [mileapp documentation](https://doc.clickup.com/3837933/p/h/3n3zd-81962/aa00834626ae24f)
+- Link to API documentation (🔗): [apidoc](https://apidoc.mile.app/) 
 
 **Instructions:**  
 - You may use **n8n** (preferred), or other platforms such as LangChain, RAG pipelines, or CrewAI.  
