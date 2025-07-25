@@ -2,7 +2,7 @@
 
 ---
 
-## 🧠 Section 1: AI Agent (Customer Support)
+## 🔹 Section 1: AI Agent (Customer Support)
 
 **Objective:**  
 Assess the candidate’s ability to use unstructured and semi-structured documentation to create a functional AI agent for customer support.
@@ -67,7 +67,7 @@ You will be given a sample dataset (JSON or CSV). Use at least one of the follow
 - Metabase  
 
 **Provided:**  
-- Sample dataset: [Download JSON/CSV](#)
+- Sample dataset: [data](data.csv)
 
 **Instructions:**  
 - Create some visualizations showing key insights or trends.  
